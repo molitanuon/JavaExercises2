@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=DigiPet
+comment0.text=\n\ DigiPet\ class\ -\ digital\ pet\n\ \n\ Molita\ Nuon\ \n\ CS\ A170\n\ April\ 26,\ 2017\n\ \n\ Exercise\ 26\n
+comment1.params=
+comment1.target=DigiPet()
+comment10.params=
+comment10.target=void\ showPet()
+comment2.params=newName\ newLifespan
+comment2.target=DigiPet(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ makeOlder()
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=
+comment5.target=int\ getLifespan()
+comment6.params=
+comment6.target=void\ poke()
+comment7.params=
+comment7.target=void\ pet()
+comment8.params=amount
+comment8.target=void\ feed(int)
+comment9.params=amount
+comment9.target=void\ exercise(int)
+numComments=11

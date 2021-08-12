@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RightTriangle()
+comment1.params=leg1\ leg2
+comment1.target=RightTriangle(double,\ double)
+comment2.params=LegA
+comment2.target=void\ setLegA(double)
+comment3.params=LegB
+comment3.target=void\ setLegB(double)
+comment4.params=
+comment4.target=double\ calculateArea()
+comment5.params=mode\ factor
+comment5.target=void\ scale(int,\ double)
+comment6.params=
+comment6.target=void\ invert()
+comment7.params=
+comment7.target=void\ printDimensions()
+numComments=8
